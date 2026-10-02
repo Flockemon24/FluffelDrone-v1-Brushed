@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Warm-up | Tier 1 | $30.00 |
+| Warm-up | Tier 2 | $65.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -34,4 +34,4 @@
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$26.16** | — |
 
-$3.84 left of the tier's funding.
+$38.84 left of the tier's funding.
