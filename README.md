@@ -21,13 +21,13 @@ FluffelDrone is an ultra-lightweight, budget-friendly (€30), and open-source D
 ### Core Electronics
 - **Flight Controller & Video:** ESP32-CAM Development Board (OV2640 Camera module included).
 - **IMU Lagesensor:** MPU6050 (6-DOF Gyroscope + Accelerometer) placed precisely at the geometric center of the PCB for ideal PID loop calculations.
-- **Voltage Regulator:** AMS1117-3.3V (Powers the ICs safely while pulling raw power directly from the battery).
+- **Voltage Regulator:** TPS63070RNMR
 
 ### Drivetrain & Power
-- **Motors:** 4x 820 Coreless Brushed Motors (8.5mm x 20mm, 3.7V).
+- **Motors:** 4x 8520 Coreless Brushed Motors (8.5mm x 20mm, 3.7V).
 - **Motor Drivers:** 4x SI2302 N-Channel MOSFETs (SOT-23 package).
 - **Protection:** 4x 1N4148 Fast-Switching Flyback Diodes wired in parallel to each motor to absorb voltage spikes.
-- **Power Source:** 1S LiPo Battery (3.7V, ~450mAh) utilizing a high-current BT2.0 or JST-PH 2.0 connector.
+- **Power Source:** 1S LiPo Battery (3.7V, ~550mAh).
 
 ---
 
