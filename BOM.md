@@ -33,7 +33,7 @@
 | [OV2640 Camera Module](https://de.aliexpress.com/item/1005003279204315.html) | Camera | 1 | $9.53 | $9.53 | [AliExpress](https://de.aliexpress.com/item/1005003279204315.html) |
 | [ESP32-CAM Development Board with Wi-Fi](https://de.aliexpress.com/item/1005006162034604.html) | Camera; WiFi and Main-Controller | 1 | $7.36 | $7.36 | [AliExpress](https://de.aliexpress.com/item/1005006162034604.html) |
 | **Parts subtotal** | — | — | — | **$62.00** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$65.00** | — |
+| **Tax & shipping** | — | — | — | **$3.01** | — |
+| **Total** | — | — | — | **$65.01** | — |
 
-$0.00 left of the tier's funding.
+**$0.01 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
