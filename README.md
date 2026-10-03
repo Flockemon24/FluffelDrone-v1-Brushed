@@ -6,7 +6,7 @@
 
 ![New PCB Design](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4fbHVD2HJmUknZX98YuazYMMhIgWKpgb/d127b77ce6228ac30c2db8ebdd53a88c3f84da65711a327231304b6e341bee2b.png)
 
-FluffelDrone is an ultra-lightweight, budget-friendly (€30), and open-source DIY Wi-Fi micro drone. Built around the **ESP32-CAM** module and configured via a custom-designed All-in-One (AIO) PCB, this drone stream lines live video and receives real-time flight commands via **MQTT** using a custom Python script.
+FluffelDrone is an ultra-lightweight, budget-friendly (€35; without Tools), and open-source DIY Wi-Fi micro drone. Built around the **ESP32-CAM** module and configured via a custom-designed All-in-One (AIO) PCB, this drone stream lines live video and receives real-time flight commands via **MQTT** using a custom Python script.
 
 ---
 
