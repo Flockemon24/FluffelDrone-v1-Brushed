@@ -33,7 +33,7 @@
 | [OV2640 Camera Module 75MM-66 Degree](https://de.aliexpress.com/item/1005003279204315.html) | Camera | 1 | $9.53 | $9.53 | [AliExpress](https://de.aliexpress.com/item/1005003279204315.html) |
 | [ESP32-CAM Development Board with Wi-Fi without OV2640](https://de.aliexpress.com/item/1005006162034604.html) | Camera; WiFi and Main-Controller | 1 | $7.36 | $7.36 | [AliExpress](https://de.aliexpress.com/item/1005006162034604.html) |
 | **Parts subtotal** | — | — | — | **$62.00** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$65.00** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$64.00** | — |
 
-$0.00 left of the tier's funding.
+$1.00 left of the tier's funding.
