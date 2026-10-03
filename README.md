@@ -1,6 +1,10 @@
 # FluffelDrone 🛸
 
-<img width="2160" height="2419" alt="PCB_FluffelDrone_v1" src="https://github.com/user-attachments/assets/5834a0d1-8cc1-4184-831c-b1c69aa683a3" />
+![Fusion](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4fbHVD2HJmUknZX98YuazYMMhIgWKpgb/088c2f7abf212ee6e46e57684c220eedd7e68d5faa39fe857cf0ac2349648325.png)
+
+![Fusion Top](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4fbHVD2HJmUknZX98YuazYMMhIgWKpgb/34293e5cb0ec5d3cb2e510b2a2fbc2f7bac608d918683207c4598bf552f603f8.png)
+
+![New PCB Design](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4fbHVD2HJmUknZX98YuazYMMhIgWKpgb/d127b77ce6228ac30c2db8ebdd53a88c3f84da65711a327231304b6e341bee2b.png)
 
 FluffelDrone is an ultra-lightweight, budget-friendly (€30), and open-source DIY Wi-Fi micro drone. Built around the **ESP32-CAM** module and configured via a custom-designed All-in-One (AIO) PCB, this drone stream lines live video and receives real-time flight commands via **MQTT** using a custom Python script.
 
