@@ -5,8 +5,8 @@
 #include <Adafruit_Sensor.h>
 
 // --- WLAN & MQTT Konfiguration ---
-const char* ssid = "DEIN_WLAN_NAME";
-const char* password = "DEIN_WLAN_PASSWORT";
+const char* ssid = "YOUR_WiFi_NAME";
+const char* password = "YOUR_WiFi_PASSWORD";
 const char* mqtt_server = "111.111.1.111"; // IP deines MQTT-Brokers (z.B. Raspberry Pi)
 
 // --- Pinbelegung Motoren (PWM) ---
