@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [ESP32-CAM](https://www.lcsc.com/product-detail/C277946.html?s_z=h_q_x_ESP32-CAM) | Main Computer; Camera and WiFi | 1 | $7.22 | $7.22 | [LCSC](https://www.lcsc.com/product-detail/C277946.html?s_z=h_q_x_ESP32-CAM) |
 | [Samsung Electro-Mechanics CL10A106KP8NNNC](https://www.lcsc.com/product-detail/C19702.html) | Ceramic Capacitors | 1 | $0.03 | $0.03 | [LCSC](https://www.lcsc.com/product-detail/C19702.html) |
 | [Samsung Electro-Mechanics CL10A226MQ8NRNC](https://www.lcsc.com/product-detail/C59461.html) | Ceramic Capacitors | 2 | $0.03 | $0.06 | [LCSC](https://www.lcsc.com/product-detail/C59461.html) |
 | [Samsung Electro-Mechanics CL31A107MQHNNNE](https://www.lcsc.com/product-detail/C15008.html) | Ceramic Capacitors | 1 | $0.12 | $0.12 | [LCSC](https://www.lcsc.com/product-detail/C15008.html) |
@@ -33,8 +32,8 @@
 | [Hot Air Rework Station](https://www.lcsc.com/product-detail/C42433896.html?s_z=h_q_x_ESP32-CAM) | Soldering | 1 | $26.17 | $26.17 | [LCSC](https://www.lcsc.com/product-detail/C42433896.html?s_z=h_q_x_ESP32-CAM) |
 | [OV2640 Camera Module](https://de.aliexpress.com/item/1005003279204315.html) | Camera | 1 | $9.53 | $9.53 | [AliExpress](https://de.aliexpress.com/item/1005003279204315.html) |
 | [ESP32-CAM Development Board with Wi-Fi](https://de.aliexpress.com/item/1005006162034604.html) | Camera; WiFi and Main-Controller | 1 | $7.36 | $7.36 | [AliExpress](https://de.aliexpress.com/item/1005006162034604.html) |
-| **Parts subtotal** | — | — | — | **$69.22** | — |
+| **Parts subtotal** | — | — | — | **$62.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$69.22** | — |
+| **Total** | — | — | — | **$62.00** | — |
 
-**$4.22 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$3.00 left of the tier's funding.
