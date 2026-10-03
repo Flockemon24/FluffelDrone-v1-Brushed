@@ -31,10 +31,9 @@
 | [GNB 550mAh 1S 90C XT30](https://www.rotorama.com/product/gnb-550mah-1s?variant=1087) | LiPo Power Supply | 1 | $5.50 | $5.50 | [Rotorama](https://www.rotorama.com/product/gnb-550mah-1s?variant=1087) |
 | [4pcs 8520 2CW and 2CCW Coreless Motor DC](https://de.aliexpress.com/item/1005012596273761.html?isdl=y&aff_fsk=_oEtjzCB&src=AwinDE&aff_platform=aff_feeds&aff_short_key=_oEtjzCB&pdp_npi=4%40dis%21EUR%217.29%217.29%21%21%21%21%21%40%2112000058784093704%21afff%21%21%21&sv1=affiliate&sv_campaign_id=720095&awc=10748_1790962093_297643ca3312f62c611213d847f8ea1c&af=720095&dp=10748_1790962093_297643ca3312f62c611213d847f8ea1c&cn=10748&Afref=Best+Products+Reviews&gatewayAdapt=glo2deu) | Motors | 1 | $7.95 | $7.95 | [AliExpress](https://de.aliexpress.com/item/1005012596273761.html?isdl=y&aff_fsk=_oEtjzCB&src=AwinDE&aff_platform=aff_feeds&aff_short_key=_oEtjzCB&pdp_npi=4%40dis%21EUR%217.29%217.29%21%21%21%21%21%40%2112000058784093704%21afff%21%21%21&sv1=affiliate&sv_campaign_id=720095&awc=10748_1790962093_297643ca3312f62c611213d847f8ea1c&af=720095&dp=10748_1790962093_297643ca3312f62c611213d847f8ea1c&cn=10748&Afref=Best+Products+Reviews&gatewayAdapt=glo2deu) |
 | [Hot Air Rework Station](https://www.lcsc.com/product-detail/C42433896.html?s_z=h_q_x_ESP32-CAM) | Soldering | 1 | $26.17 | $26.17 | [LCSC](https://www.lcsc.com/product-detail/C42433896.html?s_z=h_q_x_ESP32-CAM) |
-| [Camera Extension Cable and Adapter](https://de.aliexpress.com/item/1005011878610045.html) | Extension cable and adapter for ESP32-CAM and OV2640 | 1 | $1.14 | $1.14 | [AliExpress](https://de.aliexpress.com/item/1005011878610045.html) |
 | [OV2640 Camera Module](https://de.aliexpress.com/item/1005003279204315.html) | Camera | 1 | $9.53 | $9.53 | [AliExpress](https://de.aliexpress.com/item/1005003279204315.html) |
-| **Parts subtotal** | — | — | — | **$63.00** | — |
+| **Parts subtotal** | — | — | — | **$61.86** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$63.00** | — |
+| **Total** | — | — | — | **$61.86** | — |
 
-$2.00 left of the tier's funding.
+$3.14 left of the tier's funding.
