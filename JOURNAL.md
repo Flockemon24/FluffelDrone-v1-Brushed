@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A drone with a custom PCB: Microcontroller: ESP32-CAM (acting as flight controller, Wi-Fi receiver for MQTT control, and video streamer). IMU/Sensor: MPU6050 (placed directly in the geometric center of the board). Power: 1S LiPo Battery (3.7V - 4.2V), stepped down via an AMS1117-3.3V voltage regulator for the ICs. Motors: 4x 820 coreless brushed motors, driven by SI2302 N-Channel MOSFETs with 1N4148 flyback/protection diodes parallel to each motor. Control: Controlled via Python/MQTT over Wi-Fi. Mounting: No mounting holes because the frame will be 3D printed and the board will be glued to save weight.
+> A drone with a custom PCB: Microcontroller: ESP32-CAM (acting as flight controller, Wi-Fi receiver for MQTT control, and video streamer). IMU/Sensor: MPU6050 (placed directly in the geometric center of the board). Power: 1S LiPo Battery (3.7V - 4.2V), stepped down via an TPS63070 voltage regulator for the ICs. Motors: 4x 8520 coreless brushed motors, driven by SI2302 N-Channel MOSFETs with 1N4148 flyback/protection diodes parallel to each motor. Control: Controlled via Python/MQTT over Wi-Fi. Mounting: No mounting holes because the frame will be 3D printed and the board will be glued to save weight.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
