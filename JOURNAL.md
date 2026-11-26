@@ -3,7 +3,7 @@ title: "FluffelDrone v1 Brushed"
 github: "https://github.com/Flockemon24/FluffelDrone-v1-Brushed"
 description: "FluffelDrone v1 Brushed is a Mini low-cost self designed drone with an self designed PCB, four brushed motors, a 1S LiPo Battery and a ESP32-CAM. I build it for a school project. "
 created_at: "2026-10-03"
-total_time: "17h"
+total_time: "20h 30m"
 ---
 
 # FluffelDrone v1 Brushed – devlog
@@ -92,3 +92,33 @@ In this very, very long session, I fixed a few Errors on the PCB and added the l
 ![Another Part of the Code](https://fabricate.hackclub-assets.com/f240ddb39a9c35bcafd05b4f8c90d617c378acf23400455c9fcf89627a6c402b/image-png/f240ddb39a9c35bcafd05b4f8c90d617c378acf23400455c9fcf89627a6c402b.png)
 
 **Total time spent: 7h**
+
+# November 26, 2026: 3d Models and Full Assembly
+<!-- fabricate:entry 3952 -->
+
+Due to the reviewer's request, I built a full 3d model of the drone in Fusion360.
+First I exported the 3d-Model from EasyEDA where I built the PCB. Then I imported it in the 3d model of the drone which I have already built in the last session.
+I now created a battery pack with the sizes of the one I had on amazon.com. It's just a cuboid but that's how a battery pack looks like.
+Last thing to built were the four motors. I first created a cylinder and than on top of it a much smaller. That's my motor.
+Than I assembled the parts together and last uploadet everything on GitHub with a screenshot of my PCB in the README.md
+
+I really hope this changes lead to my project will be accepted :-)
+
+
+
+
+![](https://fabricate.hackclub-assets.com/0c26b9483aa2935119eaea100ea53f6a5f8c90f4631cf49a76b974b89d7c64a4/image-png/FluffelDrone-3d-png-1.png)
+![](https://fabricate.hackclub-assets.com/eb8c37b0515d83473c700ab05d35c0c3d57a0242ccb21f24ee68c98629b6a4e9/image-png/FluffelDrone-3d-png-2.png)
+
+**Total time spent: 2h 30m**
+
+# November 26, 2026 (entry 2): Add New Links and Prices to BOM.csv
+<!-- fabricate:entry 3954 -->
+
+I looked up new and better items and parts for the drone. Before the PCB was missing in the BOM.csv as well as I used a different shop then now (now I use Mouser and Amazon and AISLER). There were no shipping prices either. I changed all of this and added the new links and cart screenshots to the BOM.
+
+![](https://fabricate.hackclub-assets.com/8d8470f810a79c5abd45673a1836a02993b5a48ea625f7bcfa953a3d4cc8ebe6/image-png/Screenshot%202026-11-26%20150854.png)
+![](https://fabricate.hackclub-assets.com/cb4e0c7431b36713baa5a19e5b3683e0bd48764a31311aa567f80850398d1a4a/image-png/Screenshot%202026-11-26%20150931.png)
+![](https://fabricate.hackclub-assets.com/7323de6cb66a25320d6ebd582a5af9c40ba3a43b2e5d200407e460d2f0de3c65/image-png/Screenshot%202026-11-26%20150818.png)
+
+**Total time spent: 1h**
