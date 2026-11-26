@@ -25,5 +25,7 @@ Please see ```BOM.csv``` for exakt prices and links!
 
 ![3D PCB](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4fbHVD2HJmUknZX98YuazYMMhIgWKpgb/d127b77ce6228ac30c2db8ebdd53a88c3f84da65711a327231304b6e341bee2b.png)
 
+<img width="280" height="301" alt="Screenshot 2026-11-26 142606" src="https://github.com/user-attachments/assets/36ddafca-bcd7-4735-a8a8-a2233da52d75" />
+
 ## License
 This project is open-source. Feel free to clone, modify, and build your own FluffelDrone!
