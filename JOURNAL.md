@@ -13,17 +13,6 @@ total_time: "20h 30m"
 
 > A drone with a custom PCB: Microcontroller: ESP32-CAM (acting as flight controller, Wi-Fi receiver for MQTT control, and video streamer). IMU/Sensor: MPU6050 (placed directly in the geometric center of the board). Power: 1S LiPo Battery (3.7V - 4.2V), stepped down via an TPS63070 voltage regulator for the ICs. Motors: 4x 8520 coreless brushed motors, driven by SI2302 N-Channel MOSFETs with 1N4148 flyback/protection diodes parallel to each motor. Control: Controlled via Python/MQTT over Wi-Fi. Mounting: No mounting holes because the frame will be 3D printed and the board will be glued to save weight.
 
-| Week | Tier | Hours logged | Entries |
-| --- | --- | --- | --- |
-| Warm-up | Tier 2 | 17h | 4 |
-
-## Contents
-
-1. [2026-10-02 – I have spent 6 hours so far working on my first custom micro drone project, 'FluffelDrone'. During this time, I have successfully accomplished the following milestones:](#2026-10-02-i-have-spent-6-hours-so-far-working-on-my-first-c)
-2. [2026-10-02 – I redesigned the whole PCB, because there were many fatal errors. A guy on reddit.com told me to replace the Power Supply because the old one didn't work. I also created a GitHub Repository and linked](#2026-10-02-i-redesigned-the-whole-pcb-because-there-were-man)
-3. [2026-10-02 – I finally completed the parts list on 'Half a Life'. And I also updated my GitHub Repository with new images and a new README.md. I also synchronized the BOM list and my journal to the GitHub Reposito](#2026-10-02-i-finally-completed-the-parts-list-on-half-a-life)
-4. [2026-10-03 – In this very, very long session, I fixed a few Errors on the PCB and added the last parts I need to the list on 'Half A Life'. Then I designed the 3d-Model and uploaded everything on GitHub. I designe](#2026-10-03-in-this-very-very-long-session-i-fixed-a-few-erro)
-
 ## Design
 
 # October 2, 2026: First version of the PCB.
